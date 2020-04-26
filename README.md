@@ -1,10 +1,9 @@
 # git-cherypic
 
-Line One
+Line One v1 
 
 
 Line two
-
 
 
 Line three
